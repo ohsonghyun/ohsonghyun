@@ -23,6 +23,9 @@
 	<br>
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse-525C86?style=flat&logo=eclipseide&logoColor=white" />
 </div>
 
 <br>
